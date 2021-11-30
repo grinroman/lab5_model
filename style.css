@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(6 6 6 / 87%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#heatMap {
+    background-color: rgba(196, 196, 196, 0);
+    position: relative;
+    width: 80%;
+    height: 80%;
+    border-left: solid 2px black;
+    border-bottom: solid 2px black;
+}
